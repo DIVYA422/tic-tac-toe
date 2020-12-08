@@ -1,2 +1,2 @@
 This project consist of code for the game "tic tac toe" using image processing.
-![Game]()
+![Game](https://github.com/DIVYA422/tic-tac-toe/blob/main/Game.png?raw=true)
